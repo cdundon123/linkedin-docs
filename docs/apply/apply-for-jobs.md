@@ -5,15 +5,15 @@ tags: [job preference, job recommendation, standard, apply, application, recruit
 published: true
 ---
 
-# Apply for jobs
+# Apply for a job
 
 ## Overview
 
 Every LinkedIn job listing offers one of two ways to apply: external applications and Easy Apply. 
 
-External applications typically direct you to a company's talent acquisition site or a SaaS platform such as Workday.
+**External applications** typically direct you to a company's talent acquisition site or a SaaS platform such as Workday.
 
-Easy Apply is LinkedIn's internal application submission system, allowing you to apply for a job with your LinkedIn profile (and without leaving the LinkedIn site) rather than creating an external candidate account.
+**Easy Apply** is LinkedIn's internal application submission system, allowing you to apply for a job with your LinkedIn profile (and without leaving the LinkedIn site) rather than creating an external candidate account.
 
 ## Apply using external applications
 
@@ -26,7 +26,7 @@ Easy Apply is LinkedIn's internal application submission system, allowing you to
 
     ![did you apply prompt](../images/apply-prompt.png)
 
-    By selecting **Yes**, you can track your application progress in LinkedIn from the Job tracker. You can access applied jobs by returning to the Jobs landing page and clicking **Job tracker**.
+    By selecting **Yes**, you can track your application progress in LinkedIn from the job tracker. You can access applied jobs by returning to the Jobs landing page and clicking **Job tracker**.
 
 
 ## Apply with Easy Apply
@@ -41,7 +41,9 @@ Easy Apply is LinkedIn's internal application submission system, allowing you to
 
 With Easy Apply, your application is automatically added to the Job tracker.
 
-## Additional resources
+## Related tasks
 
 - [Search for jobs](../apply/search-for-jobs.md)
 - [Track application progress](../apply/track-application.md)
+- [Premium feature: Mark a job as your Top Choice](../premium/mark-job-as-top-choice.md)
+- [Premium feature: View analytics for a job posting](../premium/view-analytics.md)

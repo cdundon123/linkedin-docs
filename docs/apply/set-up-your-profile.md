@@ -74,8 +74,12 @@ Follow these steps to customize your URL slug:
 1. Under **Edit your custom URL**, click the pencil icon. ![custom url](../images/custom-url.png)
 1. Enter a custom URL slug. The custom slug must contain 3-100 letters or numbers, and it cannot use spaces, symbols, or special characters.
 
-## Additional resources
+## Related tasks
 
-- 
-- 
+- [Add job preferences](../apply/add-job-preferences.md)
+- [Premium feature: See who has viewed your profile](../premium/see-who-viewed-profile.md)
+
+## Learn more
+
+- [Reference: Intro and profile fields]()
 

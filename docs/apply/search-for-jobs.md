@@ -33,9 +33,12 @@ LinkedIn also allows you to explore jobs by pre-curated job collections, such as
 1. Click **Show all**.
 1. Select a job collection to filter job listings.
 
-## Additional resources
+## Related tasks
 
 - [Add job preferences](../apply/add-job-preferences.md)
-- [Apply for jobs](../apply/apply-for-jobs.md)
+- [Apply for a job](../apply/apply-for-jobs.md)
+
+## Learn more
+
 - [Reference: Job collections](../references/job-collections.md)
 
