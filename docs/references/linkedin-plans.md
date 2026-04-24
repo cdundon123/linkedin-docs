@@ -7,9 +7,15 @@ published: true
 
 # Standard vs. Premium Career
 
-Premium Career is designed for active job seekers who want an edge over other applicants and direct access to recruiters.
+## Overview
 
-**Price:** Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
+Although the standard (free) LinkedIn experience offers many tools to enhance your job search experience, Premium Career may be a better option for active job seekers who want an edge over other applicants and direct access to recruiters.
+
+See the comparisons below to decide which plan is right for you.
+
+## Price
+
+Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 
 ## Messaging & networking
 

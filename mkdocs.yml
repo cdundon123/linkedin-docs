@@ -44,8 +44,8 @@ nav:
     - "Search for jobs": apply/search-for-jobs.md
     - "Apply for a job": apply/apply-for-jobs.md
     - "Track application progress": apply/track-application.md
-  - "LinkedIn Premium features":
-    - "What is LinkedIn Premium?": premium/index.md
+  - "LinkedIn Premium Career features":
+    - "What is LinkedIn Premium Career?": premium/index.md
     - "View analytics for a job posting": premium/view-analytics.md
     - "Mark a job as your Top Choice": premium/mark-job-as-top-choice.md
     - "See who has viewed your profile": premium/see-who-viewed-profile.md
@@ -53,5 +53,5 @@ nav:
     - "Activate Premium Perks": premium/activate-premium-perks.md
   - "References":
     - "Intro and profile fields": references/intro-fields.md
-    - "Standard vs Premium LinkedIn": references/linkedin-plans.md
+    - "Standard vs Premium Career": references/linkedin-plans.md
     - "Job collections": references/job-collections.md
