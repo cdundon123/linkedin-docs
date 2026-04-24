@@ -1,6 +1,7 @@
 site_name: LinkedIn Guide
 docs_dir: docs
 repo_url: https://github.com/cdundon123/linkedin-docs
+site_url: https://cdundon123.github.io/linkedin-docs/
 edit_uri: edit/main/docs/
 
 plugins:
