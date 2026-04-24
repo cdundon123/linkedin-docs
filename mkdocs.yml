@@ -1,10 +1,9 @@
-site_name: Ranger docs
+site_name: LinkedIn Guide
 docs_dir: docs
 # repo_url: <path-to-your-repo>
 # edit_uri: edit/main/docs/
 
 plugins:
-  - techdocs-core
   - search
 
 theme:
@@ -27,7 +26,6 @@ theme:
       quote: octicons/quote-16
   features:
     - search.suggest
-    # Disabling, but you can re-enable once you fix the repo_url and edit_uri above
     - content.action.edit
     - content.action.view
 
@@ -39,11 +37,22 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - "Ranger overview": index.md
-  - "Commit-based release notes generation":
-    - "About commit-based release notes generation": ranger-commit-script/index.md
-    - "How to run commit-based release notes generation": ranger-commit-script/how-to-run-script.md
-  - "Version-based release notes generation":
-    - "About version-based release notes generation": ranger-version-script/index.md
-    - "How to run version-based release notes generation": ranger-version-script/how-to-run-script.md
-  - Additional resources: guidance.md
+  - "LinkedIn overview": index.md
+  - "Apply to jobs with LinkedIn": 
+    - "Set up your profile": apply/set-up-your-profile.md
+    - "Add job preferences": apply/add-job-preferences.md
+    - "Search for jobs": apply/search-for-jobs.md
+    - "Apply for jobs": apply/apply-for-jobs.md
+    - "Track application progress": apply/track-application.md
+    - "Enhance your profile with AI": apply/enhance-your-profile-with-ai.md
+  - "LinkedIn Premium":
+    - "What is LinkedIn Premium?": premium/index.md
+    - "View analytics for a job posting": premium/view-job-analytics.md
+    - "Boost your profile visibility": premium/boost-your-profile-with-premium.md
+    - "Mark a job as your Top Choice": premium/mark-job-as-top-choice.md
+    - "Contact users outside your network with InMail": premium/contact-users-outside-network.md
+    - "See who has viewed your profile": premium/see-who-viewed-profile.md
+  - "References":
+    - "Intro and profile fields": references/intro-fields.md
+    - "LinkedIn Standard vs Premium plans": references/linkedIn-premium-plans.md
+    - "LinkedIn Learning": references/linkedIn-learning.md
