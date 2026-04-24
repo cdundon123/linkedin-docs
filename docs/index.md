@@ -10,22 +10,23 @@ To follow this guide, [sign up for a LinkedIn account](https://www.linkedin.com/
 
 New and experienced users alike can take advantage of LinkedIn's professional development tools to streamline the job search and application process:
 
-- [Set up your profile](../docs/apply/set-up-your-profile.md)
-- [Search for jobs](../docs/apply/search-for-jobs.md)
-- [Apply for jobs](../docs/apply/apply-for-jobs.md)
-- [Track application progress](../docs/apply/track-application.md)
+- [Set up your profile](../apply/set-up-your-profile)
+- [Add job preference](../apply/add-job-preferences)
+- [Search for jobs](../apply/search-for-jobs)
+- [Apply for jobs](../apply/apply-for-jobs)
+- [Track application progress](../apply/track-application)
 
 ### LinkedIn Premium Career
 
-With LinkedIn Premium Career, a paid subscription service, you can stand out to recruiters and colleagues with advanced hiring analytics, tailored [LinkedIn Learning](../docs/premium/linkedin-learning.md) options, and more:
+With [LinkedIn Premium Career](../premium), a paid subscription service, you can stand out to recruiters and colleagues with advanced hiring analytics, tailored [LinkedIn Learning](../premium/linkedin-learning) options, and more:
 
-- [View analytics for a job posting](../docs/premium/view-analytics.md)
-- [Mark a job as your Top Choice](../docs/premium/mark-job-as-top-choice.md)
-- [See who has viewed your profile](../docs/premium/see-who-viewed-profile.md)
-- [Learn with LinkedIn Learning](../docs/premium/linkedin-learning.md)
-- [Activate Premium Perks](../docs/premium/activate-premium-perks.md)
+- [View analytics for a job posting](../premium/view-analytics)
+- [Mark a job as your Top Choice](../premium/mark-job-as-top-choice)
+- [See who has viewed your profile](../premium/see-who-viewed-profile)
+- [Learn with LinkedIn Learning](../premium/linkedin-learning)
+- [Activate Premium Perks](../premium/activate-premium-perks)
 
-See [Standard vs Premium Career](../docs/references/linkedin-plans.md) to learn more about the difference between the free and paid LinkedIn experiences.
+See [Standard vs Premium Career](../references/linkedin-plans) to learn more about the difference between the free and paid LinkedIn experiences.
 
 !!! note
 
