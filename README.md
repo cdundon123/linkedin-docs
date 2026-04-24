@@ -1,3 +1,3 @@
 # docs-linkedin
 
-Documentation for LinkedIn, 
+Documentation for standard and Premium LinkedIn job applicants.
