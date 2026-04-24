@@ -13,7 +13,7 @@ You can customize your job preference to receive emails, internal notifications,
 
 1. On your [profile page](../apply/set-up-your-profile.md/#1-access-your-profile), click the **Open to** button under your headline.
 1. Click **Finding a new job** from the dropdown menu.
-1. Fill in the [required fields]() to specify your job preferences.
+1. Fill in the required fields to specify your job preferences.
 1. Click **Save**.
 
 ## Find recommended jobs
@@ -29,7 +29,3 @@ You can also find recommended jobs by clicking the Jobs icon in the top navigati
 ## Related tasks
 
 - [Search for jobs](../apply/search-for-jobs.md)
-
-## Learn more
-
-- [Reference: Job preferences]()

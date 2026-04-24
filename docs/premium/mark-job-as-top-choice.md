@@ -7,6 +7,8 @@ published: true
 
 # Mark a job as your Top Choice
 
+## Overview
+
 While applying for a job with Easy Apply, Premium subscribers can mark the job as a Top Choice job. Top Choice job applications are more likely to stand out to hirers or recruiters.
 
 !!! note

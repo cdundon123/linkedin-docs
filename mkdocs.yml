@@ -1,7 +1,7 @@
 site_name: LinkedIn Guide
 docs_dir: docs
-# repo_url: <path-to-your-repo>
-# edit_uri: edit/main/docs/
+repo_url: https://github.com/cdundon123/linkedin-docs
+edit_uri: edit/main/docs/
 
 plugins:
   - search
@@ -48,12 +48,10 @@ nav:
     - "What is LinkedIn Premium?": premium/index.md
     - "View analytics for a job posting": premium/view-analytics.md
     - "Mark a job as your Top Choice": premium/mark-job-as-top-choice.md
-    - "Contact users outside your network with InMail": premium/contact-users-outside-network.md
     - "See who has viewed your profile": premium/see-who-viewed-profile.md
-    - "Learn with LinkedIn Learning": premium/linkedIn-learning.md
+    - "Learn with LinkedIn Learning": premium/linkedin-learning.md
+    - "Activate Premium Perks": premium/activate-premium-perks.md
   - "References":
     - "Intro and profile fields": references/intro-fields.md
-    - "LinkedIn Standard vs Premium plans": references/linkedIn-premium-plans.md
-    - "LinkedIn Learning": references/linkedIn-learning.md
-    - "Job preferences": references/job-preferences.md
-    - "Job categories": references/job-categories.md
+    - "Standard vs Premium LinkedIn": references/linkedin-plans.md
+    - "Job collections": references/job-collections.md

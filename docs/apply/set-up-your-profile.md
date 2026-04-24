@@ -13,7 +13,7 @@ A professional profile on LinkedIn acts as your digital CV. You can showcase you
 
 ## Add an intro
 
-A [LinkedIn intro]() contains the first information that recruiters and other LinkedIn users will see when previewing or visiting your profile. 
+A LinkedIn intro contains the first information that recruiters and other LinkedIn users will see when previewing or visiting your profile. 
 
 Edit your intro by completing the following steps:
 
@@ -35,7 +35,7 @@ Click **Save** after entering your info.
 
 ## Add experiences and other qualifications to your profile
 
-1. On your profile page, scroll down to the [experience type]() you want to update (for example, Experience, Education, or Skills).
+1. On your profile page, scroll down to the [experience type](../references/intro-fields.md/#profile-sections) you want to update (for example, Experience, Education, or Skills).
 1. Click the plus icon in that section.
 1. Fill any required fields with your information.
 1. Click **Save**.
@@ -81,5 +81,5 @@ Follow these steps to customize your URL slug:
 
 ## Learn more
 
-- [Reference: Intro and profile fields]()
+- [Reference: Intro fields and profile sections](../references/intro-fields.md)
 

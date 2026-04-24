@@ -5,6 +5,8 @@ tags: [premium, analytics, application, match, review, assistance]
 published: true
 ---
 
+# View analytics for a job posting
+
 ## Assess job match level
 
 You can use Premium to assess how well your profile's qualifications match with a job listing's requirements.

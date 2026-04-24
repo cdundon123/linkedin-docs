@@ -15,17 +15,17 @@ New and experienced users alike can take advantage of LinkedIn's professional de
 - [Apply for jobs](../docs/apply/apply-for-jobs.md)
 - [Track application progress](../docs/apply/track-application.md)
 
-### LinkedIn Premium
+### LinkedIn Premium Career
 
-With [LinkedIn Premium](), a paid subscription service, you can stand out to recruiters and colleagues with advanced hiring analytics, tailored [LinkedIn Learning]() course recommendations, and more:
+With LinkedIn Premium Career, a paid subscription service, you can stand out to recruiters and colleagues with advanced hiring analytics, tailored [LinkedIn Learning](../docs/premium/linkedin-learning.md) options, and more:
 
-    - [View analytics for a job posting](../docs/premium/view-analytics.md)
-    - [Mark a job as your Top Choice]()
-    - [Contact users outside your network with InMail]()
-    - [See who has viewed your profile]()
-    - [Learn with LinkedIn Learning]()
+- [View analytics for a job posting](../docs/premium/view-analytics.md)
+- [Mark a job as your Top Choice](../docs/premium/mark-job-as-top-choice.md)
+- [See who has viewed your profile](../docs/premium/see-who-viewed-profile.md)
+- [Learn with LinkedIn Learning](../docs/premium/linkedin-learning.md)
+- [Activate Premium Perks](../docs/premium/activate-premium-perks.md)
 
-[Learn more about LinkedIn Premium's three plans](), which each offer unique features to enhance your networking and job searching.
+See [Standard vs Premium Career](../docs/references/linkedin-plans.md) to learn more about the difference between the free and paid LinkedIn experiences.
 
 !!! note
 
