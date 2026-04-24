@@ -10,7 +10,7 @@ To follow this guide, [sign up for a LinkedIn account](https://www.linkedin.com/
 
 New and experienced users alike can take advantage of LinkedIn's professional development tools to streamline the job search and application process:
 
-- [Set up your profile](../docs/apply/set-up-your-profile)
+- [Set up your profile](../apply/set-up-your-profile.md)
 - [Add job preference](../apply/add-job-preferences)
 - [Search for jobs](../apply/search-for-jobs)
 - [Apply for jobs](../apply/apply-for-jobs)
