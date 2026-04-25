@@ -9,7 +9,7 @@ published: true
 
 ## Overview
 
-LinkedIn Learning provides support for professional development and certifications through AI coaching and online courses. You can used LinkedIn Learning to prepare for interviews, gain qualifications for jobs that interest you, and display certificates on your profile.
+LinkedIn Learning provides support for professional development and certifications through AI coaching and online courses. You can use LinkedIn Learning to prepare for interviews, gain qualifications for jobs that interest you, and display certificates on your profile.
 
 ## Take online courses to develop career skills
 
@@ -28,15 +28,15 @@ LinkedIn Learning provides support for professional development and certificatio
 
 1. Complete all lectures, readings, and quizzes to earn a certificate for that course.
 
-## Practice for interviews with AI-powered roleplay
+## Practice for interviews with AI-powered role play
 
-AI-powered coaching allows your to role play work conversations or prepare for your next interview. Coaching can be completed through audio/speech features (microphone required) or typing.
+AI-powered coaching allows you to role play work conversations or prepare for your next interview. Coaching can be completed through audio/speech features (microphone required) or typing.
 
 1. From the Learning home page under the **Apply** section, select **AI Role Play**.
 
     ![career home](../images/career-home.png)
 
-1. In the AI roleplay prompt, enter the scenario or conversation you want to practice. For example: "I want to practice negotiating a salary increase."
+1. In the AI role play prompt, enter the scenario or conversation you want to practice. For example: "I want to practice negotiating a salary increase."
 
     ![roleplay prompt](../images/roleplay-prompt.png)
 
@@ -46,7 +46,7 @@ AI-powered coaching allows your to role play work conversations or prepare for y
     - What will make the conversation successful
     - Who the conversation is with (i.e., a short bio of your AI chat partner)
 
-1. Click **Start** to begin your roleplay
+1. Click **Start** to begin your role play
     
     - (*Optional*) If you would like to make change to your scenario, click **Edit** to manually define the scenario's goals, success criteria, and the AI's personality.
 

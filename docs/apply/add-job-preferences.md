@@ -24,7 +24,7 @@ You can also find recommended jobs by clicking the Jobs icon in the top navigati
 
 !!! note
     
-    Premium users can view additional details about other applicants, job criteria, and recruiter feedback. To learn more about Premium analytics, see [View analytics for a job posting]().
+    Premium users can view additional details about other applicants, job criteria, and recruiter feedback. To learn more about Premium analytics, see [View analytics for a job posting](../premium/view-analytics.md).
 
 ## Related tasks
 

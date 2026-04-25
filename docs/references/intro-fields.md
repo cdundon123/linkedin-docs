@@ -9,7 +9,7 @@ published: true
 
 ## Intro fields
 
-Intro fields define the information you enter to display on your profile intro and preview. This is the first information other users visiting your profile will see.
+Intro fields define the information you enter to display on your profile intro and preview. This is the first information that other users visiting your profile will see.
 
 | Field name | Required | Additional details
 | --- | --- | --- |

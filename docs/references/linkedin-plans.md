@@ -9,7 +9,7 @@ published: true
 
 ## Overview
 
-Although the standard (free) LinkedIn experience offers many tools to enhance your job search experience, Premium Career may be a better option for active job seekers who want an edge over other applicants and direct access to recruiters.
+Although the standard (free) LinkedIn experience offers many tools to enhance your job search experience, Premium Career may be a better option for active job seekers who want an advantage over other applicants and direct access to recruiters.
 
 See the comparisons below to decide which plan is right for you.
 
@@ -26,8 +26,6 @@ Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 | **Open profile (receive free InMails)** | ✗ | ✓ |
 | **See who viewed your profile** | Last 5 viewers | Full list |
 
----
-
 ## Job seeking
 
 | Feature | Free | Premium Career |
@@ -39,8 +37,6 @@ Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 | **Salary insights** | Limited | ✓ |
 | **Advanced job filters** | ✗ | ✓ |
 
----
-
 ## Profile & visibility
 
 | Feature | Free | Premium Career |
@@ -50,8 +46,6 @@ Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 | **AI profile writing suggestions** | ✗ | ✓ |
 | **Enhanced profile visibility** | ✗ | ✓ |
 
----
-
 ## Learning & AI tools
 
 | Feature | Free | Premium Career |
@@ -60,8 +54,6 @@ Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 | **AI writing suggestions (posts & profile)** | ✗ | ✓ |
 | **AI-powered job match insights** | ✗ | ✓ |
 
----
-
 ## Search
 
 | Feature | Free | Premium Career |
@@ -69,7 +61,6 @@ Standard ($0) vs. Premium Career ($39.99/mo or ~$29.99/mo billed annually)
 | **People & job search** | ✓ | ✓ |
 | **Advanced search filters** | ✗ | ✓ |
 | **Commercial search limit** | ~300 results/mo | Unlimited |
-
 
 !!! note
     

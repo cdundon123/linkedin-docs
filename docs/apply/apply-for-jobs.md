@@ -35,7 +35,7 @@ Every LinkedIn job listing offers one of two ways to apply: external application
 
     ![easy apply](../images/easy-apply.png)
 
-1. Fill in any required fields. These often include contact information, a CV, and cover letter, but exact requirements vary by listing.
+1. Fill in any required fields. These often include contact information, a CV, and a cover letter, but exact requirements vary by listing.
 1. Click **Review** once you have completed the application to look over your responses.
 1. Click **Submit application** to send your application to the recruiter.
 

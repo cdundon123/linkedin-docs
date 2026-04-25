@@ -13,7 +13,7 @@ LinkedIn allows you to strategically search for jobs according to title, require
 
 ## Search by job title, skill, or company
 
-1. Click on the Jobs icon in the top navigation bar. 
+1. Click on the **Jobs** icon in the top navigation bar. 
 
     ![job icon](../images/jobs-icon.png)
 

@@ -9,7 +9,7 @@ published: true
 
 ## Overview
 
-A professional profile on LinkedIn acts as your digital CV. You can showcase your experiences, educations, skills, and more to impress recruiters and find the jobs are the best fits for you.
+A professional profile on LinkedIn acts as your digital CV. You can showcase your experiences, educations, skills, and more to impress recruiters and find the jobs that are the best fits for you.
 
 ## Add an intro
 
@@ -19,19 +19,19 @@ Edit your intro by completing the following steps:
 
 ### 1. Access your profile
 
-To access your profile, click your profile picture on the top right of the navigation bar. 
+1. To access your profile, click your profile picture on the top right of the navigation bar. 
 
-![linkedin homepage](../images/homepage.png)
+    ![linkedin homepage](../images/homepage.png)
 
-From the dropdown, select **View profile**.
+1. From the dropdown, select **View profile**.
 
 ### 2. Edit intro details
 
-Click the pencil icon to the right of your profile picture to open the editing panel, then enter your info.
+1. Click the pencil icon to the right of your profile picture to open the editing panel, then enter your info.
 
-Although not all fields are required, filling out more information increases the reach of your professional profile. [Learn more about intro fields and their usage](../references/intro-fields.md).
+    Although not all fields are required, filling out more information increases the reach of your professional profile. [Learn more about intro fields and their usage](../references/intro-fields.md).
 
-Click **Save** after entering your info.
+1. Click **Save** after entering your info.
 
 ## Add experiences and other qualifications to your profile
 

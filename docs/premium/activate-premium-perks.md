@@ -14,7 +14,7 @@ LinkedIn Premium subscribers are able to redeem Premium Perks, which include fre
 ## Redeem Premium Perks
 
 1. Click **Me** in the top navigation bar.
-1. From the dropdown and under **Account**, select **Premium features*.
+1. From the dropdown and under **Account**, select *Premium features*.
 
     ![premium features](../images/features.png)
 

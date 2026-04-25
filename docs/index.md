@@ -13,7 +13,7 @@ New and experienced users alike can take advantage of LinkedIn's professional de
 - [Set up your profile](apply/set-up-your-profile.md)
 - [Add job preferences](apply/add-job-preferences.md)
 - [Search for jobs](apply/search-for-jobs.md)
-- [Apply for jobs](apply/apply-for-jobs.md)
+- [Apply for a job](apply/apply-for-jobs.md)
 - [Track application progress](apply/track-application.md)
 
 ### LinkedIn Premium Career
